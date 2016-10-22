@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6",
+        "outDir": "build",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "strictNullChecks": true,
+        "jsx": "react"
+    },
+    "files": [
+        "src/Index.tsx"
+    ]
+}
